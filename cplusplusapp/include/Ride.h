@@ -12,7 +12,7 @@ protected:
     double distance;                    
     double fareAmount;
 
-    void fare(double f) { fareAmount = f; }
+    void setFare(double f) { fareAmount = f; }
     
 
 public:
