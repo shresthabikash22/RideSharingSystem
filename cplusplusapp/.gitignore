@@ -1,0 +1,8 @@
+#vscode
+.vscode/
+
+#Build output folders
+obj/
+bin/
+
+
