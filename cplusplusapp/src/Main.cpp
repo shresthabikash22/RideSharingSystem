@@ -23,7 +23,7 @@ int main() {
     // Create rides
    
     std::vector<std::shared_ptr<Ride>> rides;
-    rides.push_back(make_shared<StandardRide>(101, "Irving", "Forthworth", 10.0));
+    rides.push_back(make_shared<StandardRide>(101, "Irving", "Fort Worth", 10.0));
     rides.push_back(make_shared<PremiumRide>(102, "Allen", "Longview", 15.0));
     rides.push_back(make_shared<StandardRide>(103, "FlowerMound", "Euless", 5.0));
     rides.push_back(make_shared<PremiumRide>(104, "Dallas", "Greenville", 20.0));
