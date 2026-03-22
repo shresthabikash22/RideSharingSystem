@@ -1,0 +1,4 @@
+*.img
+*.changes
+*.bak
+.vscode/
